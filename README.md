@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ejatgit
-- 👀 I’m interested in DOE2, E+, OpenStudio, OpenFOAM, VBA, JavaScrip, Html, CSS, C#, C++, Ruby Script, and GitHub.
-- 🌱 I’m currently learning something new.
+- 👀 I’m interested in DOE2, E+, OpenStudio, OpenFOAM, VBA, JavaScript, Html, CSS, C#, C++, Ruby Script, and GitHub.
+- 🌱 I’m currently learning GitHub.
 - 💞️ I’m looking to collaborate on opensource code projects to strength skills.
 - 📫 How to reach me: ejantz@willdan.com
 - ⚡ Fun fact: I do energy modeling.
